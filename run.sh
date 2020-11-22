@@ -11,4 +11,4 @@ mkdir ~/.config/Red-DiscordBot
 
 echo $CONFIG_JSON > ~/.config/Red-DiscordBot/config.json
 
-python3 -m redbot heroku --token $TOKEN --prefix $PREFIX $OPTIONAL_ARGS
+python3 -m redbot heroku --token $TOKEN --prefix $PREFIX
