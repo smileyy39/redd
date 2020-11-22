@@ -33,8 +33,8 @@ pytz==2018.7
 PyYAML==3.13
 raven==6.9.0
 raven-aiohttp==0.7.0
-git+https://github.com/NNTin/Red-DiscordBot
-git+https://github.com/NNTin/Red-Lavalink
+git+https://github.com/NNTin/Red-DiscordBot@lavalink-v3#egg=Red-DiscordBot
+git+https://github.com/NNTin/Red-Lavalink@lavalink-v3#egg=Red-Lavalink
 requests==2.20.1
 requests-oauthlib==1.0.0
 schema==0.6.8
